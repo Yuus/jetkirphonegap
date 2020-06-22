@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Volodya GPS</name>
+    <name>JETKIR.KG</name>
     <description>
-        Demo app Volodya GPS
+         Интернет магазин JETKIR.KG
     </description>
     <author email="mirzaevs@gmail.com" href="http://t.me/bwheel">
         BWheel Team
