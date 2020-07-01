@@ -4,12 +4,12 @@
     <description>
          JETKIR.KG
     </description>
-    <author email="mirzaevs@gmail.com" href="http://t.me/bwheel">
+    <author email="jetkirkgad@gmail.com" href="https://jetkir.kg">
         JETKIR.KG
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="21" />
+    <preference name="android-minSdkVersion" value="28" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.4.3" />
