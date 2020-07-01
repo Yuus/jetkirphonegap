@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.udevs.jetkirkg" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>JETKIR.KG</name>
     <description>
          JETKIR.KG
     </description>
     <author email="mirzaevs@gmail.com" href="http://t.me/bwheel">
-        BWheel Team
+        JETKIR.KG
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
@@ -42,14 +42,13 @@
         <splash density="port-xxxhdpi" src="www/res/screen/android/drawable-port-xxxhdpi-screen.png" />
     </platform>
     <access origin="*" />
-    <access origin="https://nimbus.wialon.com" />
-    <allow-navigation href="https://nimbus.wialon.com/*" />
+    <access origin="https://jetkir.kg" />
+    <allow-navigation href="https://jetkir.kg/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
